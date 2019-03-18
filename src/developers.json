@@ -1,0 +1,43 @@
+[
+  {
+    "developer": {
+      "id": 1,
+      "email": "dev1@solstice.com",
+      "technologies": [
+        {
+          "id": 1,
+          "description": "Mobile",
+          "score": 1.6
+        },
+        {
+          "id": 2,
+          "description": "Security",
+          "score": 1.4
+        },
+        {
+          "id": 3,
+          "description": "Back End",
+          "score": 1.9
+        }
+      ]
+    }
+  },
+  {
+    "developer": {
+      "id": 2,
+      "email": "dev2@solstice.com",
+      "technologies": [
+        {
+          "id": 2,
+          "description": "Security",
+          "score": 2.2
+        },
+        {
+          "id": 4,
+          "description": "Front End",
+          "score": 1.5
+        }
+      ]
+    }
+  }
+]
